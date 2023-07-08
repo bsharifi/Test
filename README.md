@@ -1,3 +1,4 @@
 # Test
 Test repo
-Making changes 1
+Making change 1
+Making change 2
